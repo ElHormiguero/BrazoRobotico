@@ -1,4 +1,5 @@
 /* Brazo robótico con 4 servomotores, 3 potenciometros y un interruptor para su control manual, y un boton para grabar y reproducir movimientos.
+   Idea basa en proyecto de American Hacker.
    Autor: Javier Vargas. El Hormiguero.
    https://creativecommons.org/licenses/by/4.0/
 */
